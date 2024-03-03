@@ -1,0 +1,9 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:OskaKim/MagicOnionEnv_Client.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:OskaKim/MagicOnionEnv_Server.git
+[submodule "Shared"]
+	path = Shared
+	url = git@github.com:OskaKim/MagicOnionEnv_Shared.git
